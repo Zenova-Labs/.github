@@ -4,18 +4,18 @@ Welcome to **Zenova Lab**, where innovation meets purpose. We are an advanced R&
 
 ---
 
-## **🚀 Our Mission**  
+## **🚀 Our Mission
 To create intelligent, adaptive systems that merge human-centric design with cutting-edge technologies, transforming the way people interact with the digital world while prioritizing privacy, transparency, and resilience.
 
 ---
 
-## What We Build**  
+## What We Build
 
-### 1. MiRA**  
+### 1. MiRA  
 A next-generation **personalized assistant** designed to optimize daily life.
 
 
-### 2. Emerging Innovations**  
+### 2. Emerging Innovations 
 Zenova Lab's portfolio extends to:  
 - **Personalized Healthcare Platforms**  
 - **Decentralized Identity Systems**  
@@ -31,7 +31,7 @@ Zenova Lab's portfolio extends to:
 
 ---
 
-## Core Technologies**  
+## Core Technologies
 - **Artificial Intelligence & Machine Learning**  
 - **Edge Computing & Federated Learning**  
 - **Wearables & IoT Integration**  
