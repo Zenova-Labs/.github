@@ -4,7 +4,7 @@ Welcome to **Zenova Lab**, where innovation meets purpose. We are an advanced R&
 
 ---
 
-## **🚀 Our Mission
+## Mission
 To create intelligent, adaptive systems that merge human-centric design with cutting-edge technologies, transforming the way people interact with the digital world while prioritizing privacy, transparency, and resilience.
 
 ---
@@ -39,10 +39,10 @@ Zenova Lab's portfolio extends to:
 
 ---
 
-## **🌐 Join Us**  
+## Join Us 
 Zenova Lab is more than a technology company—it's a movement to create a smarter, more connected world. Whether you’re an innovator, a partner, or an early adopter, we invite you to be part of our journey.  
 
-For more information, visit our [website](#) or connect with us on [LinkedIn](#).
+For more information, visit our [website](#) or connect with us on [LinkedIn](https://www.linkedin.com/company/zenovalabs/).
 
 ---
 
